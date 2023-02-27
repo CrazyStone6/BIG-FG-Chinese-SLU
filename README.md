@@ -41,6 +41,6 @@ Feel free to contact [me](zwt@mail2.gdut.edu.cn) for any question or create issu
 
 ## Acknowledgement
 
-<[AaronTengDeChuan/MLWA-Chinese-SLU: Open source code for ICASSP 2021 Paper “Injecting Word Information with Multi-Level Word Adapter for Chinese Spoken Language Understanding” (github.com)](https://github.com/AaronTengDeChuan/MLWA-Chinese-SLU)>
+<https://github.com/AaronTengDeChuan/MLWA-Chinese-SLU>
 
 We are very grateful for their pytorch implementation of MLWA Framework for Spoken Language Understanding.
